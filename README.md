@@ -4,7 +4,7 @@
  - The purpose of this analysis is to gather information about temperature trends in anticipation of a surf shop opening in Oahu. By utilizing tools for advanced data storage and retrieval we are able to efficiently pull temperature trends specifically in June and December. This will allow key stakeholders to make data driven decisions, such as, if an all year around surf and ice cream shops will be a suitable business model vs. seasonal.
 
 ## Results
-![image]June.PNG
+![image](June.PNG)
 - As shown above, we have the summary statistics for both the months of June and December.
 ### Key Differences 
 - In the month of June in Oahu, Hawaii the average temperature is 75 F and in December the average is 71 F. That is only a 4 degree difference.
