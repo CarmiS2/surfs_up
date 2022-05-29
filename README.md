@@ -15,5 +15,5 @@
 - Overall looking at the data we have presented, based on historical temperatures with the max and mean temperature between June and December being so close in degrees. I can safely recommend a surf/ice cream shop. 
 
 ### For further analysis for this project, I would recommend the below queries.
-Pulling and comparing data for participation in this area between summer vs winter. Rain can deter customers from surfing and ice cream 
-For more information where locally may be the best area to lease space for the shop, I would recommend a query to break down that analyzes the temperature difference in weather stations in the area. 
+- Pulling and comparing data for participation in this area between summer vs winter. Rain can deter customers from surfing and ice cream 
+- For more information where locally may be the best area to lease space for the shop, I would recommend a query to break down that analyzes the temperature difference in weather stations in the area. 
